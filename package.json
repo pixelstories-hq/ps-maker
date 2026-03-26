@@ -1,0 +1,16 @@
+{
+  "name": "ps-maker",
+  "version": "0.20.5",
+  "description": "A no-code game maker designed for creating 2D top-down, story-driven games.",
+  "homepage": "https://github.com/pixelstories-hq/ps-maker#readme",
+  "bugs": {
+    "url": "https://github.com/pixelstories-hq/ps-maker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelstories-hq/ps-maker.git"
+  },
+  "author": {
+    "name": "Truman Gao <truman@pixelstories.io>"
+  }
+}
